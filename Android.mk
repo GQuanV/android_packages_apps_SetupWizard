@@ -18,7 +18,6 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     libphonenumber \
     org.cyanogenmod.platform.sdk
 
-
 LOCAL_JAVA_LIBRARIES := telephony-common
 
 # Include res dir from chips
